@@ -1,0 +1,18 @@
+year,category,observation
+2023,Coverage,Partial year only: 07 Mar 2023 12:15 to 31 Dec 2023 23:50.
+2023,Duplicate timestamps,6 duplicate timestamps found.
+2023,Sampling gaps,321 expected 10-minute timestamps are missing.
+2023,Long intervals,29 intervals are longer than 10 minutes.
+2023,Missing measurements,416 missing measurement values; highest column missingness is 0.787%.
+2024,Duplicate timestamps,6 duplicate timestamps found.
+2024,Sampling gaps,20 expected 10-minute timestamps are missing.
+2024,Long intervals,15 intervals are longer than 10 minutes.
+2024,Missing measurements,765 missing measurement values; highest column missingness is 1.087%.
+2025,Duplicate timestamps,6 duplicate timestamps found.
+2025,Sampling gaps,19 expected 10-minute timestamps are missing.
+2025,Long intervals,14 intervals are longer than 10 minutes.
+2025,Missing measurements,762 missing measurement values; highest column missingness is 1.087%.
+2026,Coverage,Partial year only: 01 Jan 2026 00:00 to 21 Apr 2026 21:30.
+2026,Sampling gaps,10 expected 10-minute timestamps are missing.
+2026,Long intervals,5 intervals are longer than 10 minutes.
+2026,Missing measurements,210 missing measurement values; highest column missingness is 0.977%.

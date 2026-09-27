@@ -1,0 +1,7 @@
+parameter,missing_count,missing_percent
+Wind direction (deg),571,1.0866462405084971
+Wind speed (m/s),165,0.3140046054008792
+Precipitation (mm),13,0.02473975678916018
+Pyranometer / solar radiation (W/m2),13,0.02473975678916018
+Air temperature (C),0,0.0
+Relative humidity (%),0,0.0

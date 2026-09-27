@@ -1,0 +1,2 @@
+rows,start_time,end_time,dominant_sampling_interval,duplicate_timestamps,missing_expected_10_min_timestamps,intervals_longer_than_10_min
+15960,2026-01-01,2026-04-21 21:30:00,0 days 00:10:00,0,10,5

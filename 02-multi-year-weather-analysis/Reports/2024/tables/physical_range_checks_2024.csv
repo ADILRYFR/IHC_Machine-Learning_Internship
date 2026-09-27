@@ -1,0 +1,12 @@
+check,parameter,flagged_count
+Air temperature below -40 C,Air temperature (C),0
+Air temperature above 60 C,Air temperature (C),0
+Negative precipitation,Precipitation (mm),0
+Negative pyranometer / solar radiation,Pyranometer / solar radiation (W/m2),0
+Pyranometer above 1400 W/m2,Pyranometer / solar radiation (W/m2),0
+Relative humidity below 0%,Relative humidity (%),0
+Relative humidity above 100%,Relative humidity (%),0
+Wind direction below 0 deg,Wind direction (deg),0
+Wind direction above 360 deg,Wind direction (deg),0
+Negative wind speed,Wind speed (m/s),0
+Wind speed above 80 m/s,Wind speed (m/s),0

@@ -1,0 +1,3 @@
+model,target,train_rows,test_rows,train_start,train_end,test_start,test_end,mae,mse,rmse,r2,mean_relative_error_percent
+Multiple Linear Regression,Temperature,23711,361,2023-03-18 11:00:00,2026-04-15 23:00:00,2026-04-16,2026-05-01,0.406807,0.290191,0.538694,0.986109,2.779213
+Multiple Linear Regression,PM10,23711,361,2023-03-18 11:00:00,2026-04-15 23:00:00,2026-04-16,2026-05-01,1.624591,5.898059,2.428592,0.749804,11.181767

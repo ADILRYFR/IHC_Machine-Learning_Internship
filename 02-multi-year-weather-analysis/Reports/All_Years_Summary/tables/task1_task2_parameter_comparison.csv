@@ -1,0 +1,4 @@
+item,value,notes
+Task 1 measured parameters,9,"Task 1 included pressure, strikes, and wind gust in addition to shared weather variables."
+Task 2 measured parameters,6,"Air temperature (C), Precipitation (mm), Pyranometer / solar radiation (W/m2), Relative humidity (%), Wind direction (deg), Wind speed (m/s)"
+Task 1 measurements not present in Task 2,3,"Barometric pressure (mbar), Lightning strikes, Wind gust (m/s)"

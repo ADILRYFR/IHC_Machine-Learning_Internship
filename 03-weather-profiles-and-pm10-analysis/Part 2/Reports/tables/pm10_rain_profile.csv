@@ -1,0 +1,3 @@
+rain_group,records,mean_pm10_ug_m3,median_pm10_ug_m3,mean_wind_speed_m_s,mean_relative_humidity_percent
+No rain recorded in hour,2459,16.754168361122407,15.0,1.5321960146400977,80.99619764131761
+Rain recorded in hour,247,13.660445344129554,12.1,1.4931611570247936,96.78151147098515

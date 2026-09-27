@@ -1,0 +1,4 @@
+dataset,raw_records,start_time,end_time,hourly_records_used
+Task 1 weather,17277,2026-01-01 00:00:00,2026-05-01 01:00:00,2706
+PM10,3694,2026-01-01 00:01:28,2026-06-13 15:02:14,2706
+Aligned comparison,2706,2026-01-01 00:00:00,2026-05-01 01:00:00,2706

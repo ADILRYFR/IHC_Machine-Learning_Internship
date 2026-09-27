@@ -1,0 +1,11 @@
+parameter_1,parameter_2,mean_abs_pearson,mean_abs_spearman,years_available
+Pyranometer / solar radiation (W/m2),Relative humidity (%),0.5303411283361451,0.4490776111950204,4
+Air temperature (C),Pyranometer / solar radiation (W/m2),0.5240315955940118,0.472881605412608,4
+Air temperature (C),Relative humidity (%),0.5008206144316113,0.5048730132920292,4
+Relative humidity (%),Wind speed (m/s),0.4275051584884131,0.4696717600128839,4
+Pyranometer / solar radiation (W/m2),Wind speed (m/s),0.2417086476222844,0.4026878202526005,4
+Wind direction (deg),Wind speed (m/s),0.16619667654381629,0.17117481715237107,4
+Pyranometer / solar radiation (W/m2),Wind direction (deg),0.1418362418582112,0.11885739178166849,4
+Precipitation (mm),Relative humidity (%),0.13184749055150047,0.23929038438793587,4
+Air temperature (C),Wind direction (deg),0.07224643409104299,0.13125385122404448,4
+Precipitation (mm),Pyranometer / solar radiation (W/m2),0.05678270684684801,0.06732479966347006,4

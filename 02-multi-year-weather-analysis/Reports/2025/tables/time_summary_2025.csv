@@ -1,0 +1,2 @@
+rows,start_time,end_time,dominant_sampling_interval,duplicate_timestamps,missing_expected_10_min_timestamps,intervals_longer_than_10_min
+52547,2025-01-01,2025-12-31 23:50:00,0 days 00:10:00,6,19,14

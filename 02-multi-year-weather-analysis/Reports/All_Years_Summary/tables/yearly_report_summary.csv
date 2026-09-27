@@ -1,0 +1,5 @@
+year,rows,start_time,end_time,coverage_status,duplicate_timestamps,missing_expected_10_min_timestamps,intervals_longer_than_10_min,total_missing_values,highest_missing_percent,physical_range_flags,top_pair,top_pearson,top_spearman,report_file
+2023,42819,2023-03-07 12:15:00,2023-12-31 23:50:00,Partial year,6,321,29,416,0.7870337934094678,0,Pyranometer / solar radiation (W/m2) vs Relative humidity (%),-0.5845525095417138,-0.5306962963634395,Weather_Station_EDA_2023.html
+2024,52690,2024-01-01 00:00:00,2024-12-31 23:50:00,Full calendar year,6,20,15,765,1.087492882899981,0,Pyranometer / solar radiation (W/m2) vs Relative humidity (%),-0.5458581355187758,-0.48814880777968267,Weather_Station_EDA_2024.html
+2025,52547,2025-01-01 00:00:00,2025-12-31 23:50:00,Full calendar year,6,19,14,762,1.0866462405084971,0,Air temperature (C) vs Relative humidity (%),-0.5917584917843771,-0.5818072772365833,Weather_Station_EDA_2025.html
+2026,15960,2026-01-01 00:00:00,2026-04-21 21:30:00,Partial year,0,10,5,210,0.9774436090225564,0,Air temperature (C) vs Pyranometer / solar radiation (W/m2),0.5273131896645042,0.4961789068623073,Weather_Station_EDA_2026.html

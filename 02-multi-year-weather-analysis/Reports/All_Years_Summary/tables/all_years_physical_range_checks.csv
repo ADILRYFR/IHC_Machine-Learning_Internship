@@ -1,0 +1,45 @@
+check,parameter,flagged_count,year
+Air temperature below -40 C,Air temperature (C),0,2023
+Air temperature above 60 C,Air temperature (C),0,2023
+Negative precipitation,Precipitation (mm),0,2023
+Negative pyranometer / solar radiation,Pyranometer / solar radiation (W/m2),0,2023
+Pyranometer above 1400 W/m2,Pyranometer / solar radiation (W/m2),0,2023
+Relative humidity below 0%,Relative humidity (%),0,2023
+Relative humidity above 100%,Relative humidity (%),0,2023
+Wind direction below 0 deg,Wind direction (deg),0,2023
+Wind direction above 360 deg,Wind direction (deg),0,2023
+Negative wind speed,Wind speed (m/s),0,2023
+Wind speed above 80 m/s,Wind speed (m/s),0,2023
+Air temperature below -40 C,Air temperature (C),0,2024
+Air temperature above 60 C,Air temperature (C),0,2024
+Negative precipitation,Precipitation (mm),0,2024
+Negative pyranometer / solar radiation,Pyranometer / solar radiation (W/m2),0,2024
+Pyranometer above 1400 W/m2,Pyranometer / solar radiation (W/m2),0,2024
+Relative humidity below 0%,Relative humidity (%),0,2024
+Relative humidity above 100%,Relative humidity (%),0,2024
+Wind direction below 0 deg,Wind direction (deg),0,2024
+Wind direction above 360 deg,Wind direction (deg),0,2024
+Negative wind speed,Wind speed (m/s),0,2024
+Wind speed above 80 m/s,Wind speed (m/s),0,2024
+Air temperature below -40 C,Air temperature (C),0,2025
+Air temperature above 60 C,Air temperature (C),0,2025
+Negative precipitation,Precipitation (mm),0,2025
+Negative pyranometer / solar radiation,Pyranometer / solar radiation (W/m2),0,2025
+Pyranometer above 1400 W/m2,Pyranometer / solar radiation (W/m2),0,2025
+Relative humidity below 0%,Relative humidity (%),0,2025
+Relative humidity above 100%,Relative humidity (%),0,2025
+Wind direction below 0 deg,Wind direction (deg),0,2025
+Wind direction above 360 deg,Wind direction (deg),0,2025
+Negative wind speed,Wind speed (m/s),0,2025
+Wind speed above 80 m/s,Wind speed (m/s),0,2025
+Air temperature below -40 C,Air temperature (C),0,2026
+Air temperature above 60 C,Air temperature (C),0,2026
+Negative precipitation,Precipitation (mm),0,2026
+Negative pyranometer / solar radiation,Pyranometer / solar radiation (W/m2),0,2026
+Pyranometer above 1400 W/m2,Pyranometer / solar radiation (W/m2),0,2026
+Relative humidity below 0%,Relative humidity (%),0,2026
+Relative humidity above 100%,Relative humidity (%),0,2026
+Wind direction below 0 deg,Wind direction (deg),0,2026
+Wind direction above 360 deg,Wind direction (deg),0,2026
+Negative wind speed,Wind speed (m/s),0,2026
+Wind speed above 80 m/s,Wind speed (m/s),0,2026

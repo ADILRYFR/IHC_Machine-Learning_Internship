@@ -1,0 +1,12 @@
+check,count
+Temperature below -40 C,0
+Temperature above 60 C,0
+Relative humidity below 0%,0
+Relative humidity above 100%,0
+Negative precipitation,0
+Negative pyranometer / solar radiation,0
+Pyranometer above 1400 W/m2,0
+Wind direction below 0 deg,0
+Wind direction above 360 deg,0
+Negative wind speed,0
+Wind gust lower than wind speed,0
